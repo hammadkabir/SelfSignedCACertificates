@@ -1,4 +1,4 @@
-# SelfSignedCACertificates
+# Generating self-signed CA certificates
 A UNIX shell script for quickly deploying a self-signed CA, and generating the self-signed certificates from it.
 
 # How to run
